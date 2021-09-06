@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: powderblue;
+}
+
+.menu {
+    border: 1px solid black;
+    padding: 20px;
+    background: lightgreen !important;
+}
+
+ul a.nav-link {
+    text-align: center;
+}
+
+hr {
+    background: rgb(0, 53, 102)
+}
